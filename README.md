@@ -1,2 +1,17 @@
-# Image-Editor
-A simple web-based image editor built with HTML, CSS, and JavaScript, allowing users to upload images, apply filters, adjust brightness, contrast, saturation, and download the edited image directly from the browser.
+# 🎨 Image Editor
+
+A browser-based image editor built with HTML Canvas — featuring filters and presets.
+
+## ✨ Features
+- 🎛️ Filters — Brightness, Blur & more
+- 🖼️ Ready-made Presets
+- 🖥️ Built with HTML Canvas
+
+## 🚀 Getting Started
+```bash
+npm install
+npm run dev
+```
+
+## 👨‍💻 Author
+**Fahad Mehmood**
